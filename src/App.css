@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.todo-list {
+  margin-top: 20px;
+}
+
+.todo-item {
+  margin-bottom: 10px;
+}
+
+.completed {
+  text-decoration: line-through;
+}
